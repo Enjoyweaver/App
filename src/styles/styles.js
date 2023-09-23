@@ -1,5 +1,5 @@
 import { StyleSheet } from 'react-native';
-const bitcoinColor = '#F7931A';
+const bitcoinColor = '#2F70B8';
 
 export const styles = StyleSheet.create({
   container: {
