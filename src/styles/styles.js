@@ -20,12 +20,12 @@ export const styles = StyleSheet.create({
     borderColor: bitcoinColor,
     borderWidth: 2,
     justifyContent: 'center',
-    marginTop: 20,
+    marginTop: 30,
     borderRadius: 10,
   },
   responseSection: {
     width: '90%',
-    marginTop: 10,
+    marginTop: 30,
     paddingHorizontal: 24,
     paddingVertical: 10,
     borderColor: bitcoinColor,
@@ -36,7 +36,7 @@ export const styles = StyleSheet.create({
   methodSection: {
     alignItems: 'center',
     width: '90%',
-    marginTop: 10,
+    marginTop: 30,
     paddingHorizontal: 24,
     paddingVertical: 10,
     borderColor: bitcoinColor,
@@ -46,7 +46,7 @@ export const styles = StyleSheet.create({
   sendSection: {
     alignItems: 'center',
     width: '90%',
-    marginTop: 10,
+    marginTop: 30,
     paddingHorizontal: 24,
     paddingVertical: 10,
     borderColor: bitcoinColor,
@@ -54,7 +54,7 @@ export const styles = StyleSheet.create({
     borderRadius: 10,
   },
   headerText: {
-    fontSize: 20,
+    fontSize: 26,
     fontWeight: 'bold',
     alignSelf: 'center',
     marginHorizontal: 30,
