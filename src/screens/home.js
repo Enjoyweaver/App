@@ -84,12 +84,12 @@ const Home = () => {
         {/* Header */}
         <View style={styles.headerSection}>
           <Image
-            style={{ resizeMode: 'stretch', height: 36, width: 36 }}
+            style={{ resizeMode: 'stretch', height: 45, width: 45 }}
             source={bitcoinLogo}
           />
           <Text style={styles.headerText}>Uberrimae Fidei</Text>
           <Image
-            style={{ resizeMode: 'center', height: 40, width: 25 }}
+            style={{ resizeMode: 'center', height: 45, width: 45 }}
             source={bdkLogo}
           />
         </View>
